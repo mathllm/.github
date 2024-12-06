@@ -1,4 +1,6 @@
-## - **[2023.01.16]** 🌟 Our [**MathCoder**](https://openreview.net/forum?id=z8TW0ttBPp) and [**CSV**](https://openreview.net/forum?id=c8McWs4Av0) has been accepted at **ICLR 2024**!
+## - **[2024.09]** 🌟 Our [**MathVision**](https://mathvision-cuhk.github.io/) has been accepted at **NeurIPS 2024**!
+## - **[2024.05]** 🌟 Our [**MathGenie**](https://arxiv.org/abs/2402.16352) has been accepted at **ACL 2024 (Main Conference)**!
+## - **[2024.01]** 🌟 Our [**MathCoder**](https://openreview.net/forum?id=z8TW0ttBPp) and [**CSV**](https://openreview.net/forum?id=c8McWs4Av0) has been accepted at **ICLR 2024**!
 
 <!--
 
